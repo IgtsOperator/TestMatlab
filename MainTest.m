@@ -5,7 +5,7 @@
 
 %%
 
-vXData  =   [1,2,3,4,5];
+vXData  =   1:5;
 vYData  =   exp(vXData);
 plot(vXData , vYData)
 
